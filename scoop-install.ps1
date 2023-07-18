@@ -2,8 +2,10 @@
 if (!(Get-Command scoop -ErrorAction SilentlyContinue)) {
     # If not, install Scoop
     Write-Host "Scoop not found. Installing now..."
+    Set-ExecutionPolicy RemoteSigned -Scope CurrentUser 
     irm https://get.scoop.sh | iex
-} else {
+}
+else {
     Write-Host "Scoop already installed, skipping install."
 }
 
@@ -16,7 +18,8 @@ foreach ($bucket in $json.buckets) {
     if (!(scoop bucket list | Select-String -Pattern $bucket)) {
         Write-Host "Adding bucket: $bucket"
         scoop bucket add $bucket
-    } else {
+    }
+    else {
         Write-Host "$bucket already added, skipping."
     }
 }
@@ -27,7 +30,8 @@ foreach ($app in $json.apps) {
     if (!(scoop list | Select-String -Pattern $app.name)) {
         Write-Host "Installing $($app.name)"
         scoop install $app.name
-    } else {
+    }
+    else {
         Write-Host "$($app.name) already installed, skipping."
     }
 }
