@@ -1,0 +1,115 @@
+{
+    "buckets": [
+        "main",
+        "extras",
+        "versions",
+        "nerd-fonts",
+        "nonportable"
+    ],
+    "apps": [
+        {
+            "name": "7zip",
+            "bucket": "main"
+        },
+        {
+            "name": "espanso",
+            "bucket": "main"
+        },
+        {
+            "name": "sublime-text",
+            "bucket": "extras"
+        },
+        {
+            "name": "firefox-developer",
+            "bucket": "versions"
+        },
+        {
+            "name": "SpaceMono-NF",
+            "bucket": "nerd-fonts"
+        },
+        {
+            "name": "vscode",
+            "bucket": "extras"
+        },
+        {
+            "name": "obsidian",
+            "bucket": "extras"
+        },
+        {
+            "name": "discord",
+            "bucket": "extras"
+        },
+        {
+            "name": "git",
+            "bucket": "main"
+        },
+        {
+            "name": "steam",
+            "bucket": "versions"
+        },
+        {
+            "name": "winscp",
+            "bucket": "extras"
+        },
+        {
+            "name": "mullvadvpn-np",
+            "bucket": "nonportable"
+        },
+        {
+            "name": "sharex",
+            "bucket": "extras"
+        },
+        {
+            "name": "upscayl",
+            "bucket": "extras"
+        },
+        {
+            "name": "authy",
+            "bucket": "extras"
+        },
+        {
+            "name": "ncspot",
+            "bucket": "main"
+        },
+        {
+            "name": "spotify",
+            "bucket": "extras"
+        },
+        {
+            "name": "winaero-tweaker",
+            "bucket": "extras"
+        },
+        {
+            "name": "eartrumpet",
+            "bucket": "extras"
+        },
+        {
+            "name": "nodejs",
+            "bucket": "main"
+        },
+        {
+            "name": "traslucenttb-np",
+            "bucket": "nonportable"
+        },
+        {
+            "name": "wireguard-np",
+            "bucket": "nonportable"
+        },
+        {
+            "name": "everything",
+            "bucket": "extras"
+        },
+        {
+            "name": "mpv.net",
+            "bucket": "extras"
+        },
+        {
+            "name": "plex-desktop",
+            "bucket": "extras"
+        },
+        {
+            "name": "micro",
+            "bucket": "main"
+        }
+    ]
+}
