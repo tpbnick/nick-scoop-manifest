@@ -1,11 +1,12 @@
 # nick-scoop-manifest
 
-Scoop Manifest and Install Script
+[Scoop](https://scoop.sh/#/) Manifest and Install Script
 
 Powershell install:
 `.\scoop-install.ps1`
 
 Currently contains the following apps:
+
 - 7zip
 - authy
 - discord
