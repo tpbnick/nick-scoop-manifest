@@ -21,6 +21,7 @@ Currently contains the following apps:
 - ncspot
 - nodejs
 - obsidian
+- powertoys
 - plex-desktop
 - sharex
 - space-mono-nf
