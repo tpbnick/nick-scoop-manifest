@@ -14,6 +14,7 @@ Currently contains the following apps:
 - espanso
 - everything
 - firefox-developer
+- flow-launcher
 - git
 - micro
 - mpv.net

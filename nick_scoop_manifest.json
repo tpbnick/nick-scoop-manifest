@@ -108,6 +108,10 @@
 		{
 			"name": "powertoys",
 			"bucket": "extras"
+		},
+		{
+			"name": "flow-launcher",
+			"bucket": "extras"
 		}
 	]
 }
