@@ -5,6 +5,10 @@
 Powershell install:
 `.\scoop-install.ps1`
 
+Run either `scoop update <app_name>` to update a specific app or `scoop update *` to update all apps (after they are installed).
+
+The scoop-update.bat file is something I keep on my desktop to quickly update all apps with just a double-click.
+
 Currently contains the following apps:
 
 - 7zip
@@ -14,7 +18,6 @@ Currently contains the following apps:
 - espanso
 - everything
 - firefox-developer
-- flow-launcher
 - git
 - micro
 - mpv.net
