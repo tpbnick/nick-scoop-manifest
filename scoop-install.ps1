@@ -8,6 +8,15 @@ if (!(Get-Command scoop -ErrorAction SilentlyContinue)) {
 else {
     Write-Host "Scoop already installed, skipping install."
 }
+# Check if Git is installed
+if (!(Test-Path -Path (Get-Command git -ErrorAction SilentlyContinue))) {
+    # If not, display a message and exit
+    Write-Host "Git not found. Installing now."
+    scoop install git
+}
+else {
+    Write-Host "Git is installed."
+}
 
 # Parse the manifest.json file
 $json = Get-Content -Path 'manifest.json' | ConvertFrom-Json
