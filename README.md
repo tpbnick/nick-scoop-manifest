@@ -39,4 +39,4 @@ Currently contains the following apps:
 - [wireguard-np\*](https://www.wireguard.com/)
 - [winscp](https://winscp.net/)
 
-\*np signifies [non-portible](https://github.com/ScoopInstaller/Nonportable)
+\* np signifies [non-portable](https://github.com/ScoopInstaller/Nonportable)
