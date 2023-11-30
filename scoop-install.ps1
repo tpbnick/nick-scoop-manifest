@@ -3,7 +3,7 @@ if (!(Get-Command scoop -ErrorAction SilentlyContinue)) {
     # If not, install Scoop
     Write-Host "Scoop not found. Installing now..."
     Set-ExecutionPolicy RemoteSigned -Scope CurrentUser 
-    irm https://get.scoop.sh | iex
+    Invoke-RestMethod https://get.scoop.sh | Invoke-Expression
 }
 else {
     Write-Host "Scoop already installed, skipping install."
