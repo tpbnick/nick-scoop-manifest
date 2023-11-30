@@ -6,27 +6,7 @@
 			"bucket": "main"
 		},
 		{
-			"name": "espanso",
-			"bucket": "main"
-		},
-		{
-			"name": "sublime-text",
-			"bucket": "extras"
-		},
-		{
-			"name": "firefox-developer",
-			"bucket": "versions"
-		},
-		{
-			"name": "SpaceMono-NF",
-			"bucket": "nerd-fonts"
-		},
-		{
-			"name": "vscode",
-			"bucket": "extras"
-		},
-		{
-			"name": "obsidian",
+			"name": "authy",
 			"bucket": "extras"
 		},
 		{
@@ -34,15 +14,31 @@
 			"bucket": "extras"
 		},
 		{
+			"name": "eartrumpet",
+			"bucket": "extras"
+		},
+		{
+			"name": "espanso",
+			"bucket": "main"
+		},
+		{
+			"name": "everything",
+			"bucket": "extras"
+		},
+		{
+			"name": "firefox-developer",
+			"bucket": "versions"
+		},
+		{
 			"name": "git",
 			"bucket": "main"
 		},
 		{
-			"name": "steam",
-			"bucket": "versions"
+			"name": "micro",
+			"bucket": "main"
 		},
 		{
-			"name": "winscp",
+			"name": "mpv.net",
 			"bucket": "extras"
 		},
 		{
@@ -50,23 +46,55 @@
 			"bucket": "nonportable"
 		},
 		{
+			"name": "ncspot",
+			"bucket": "main"
+		},
+		{
+			"name": "nodejs",
+			"bucket": "main"
+		},
+		{
+			"name": "plex-desktop",
+			"bucket": "extras"
+		},
+		{
+			"name": "powertoys",
+			"bucket": "extras"
+		},
+		{
 			"name": "sharex",
 			"bucket": "extras"
+		},
+		{
+			"name": "spacemono-nf",
+			"bucket": "nerd-fonts"
+		},
+		{
+			"name": "spotify",
+			"bucket": "extras"
+		},
+		{
+			"name": "starship",
+			"bucket": "main"
+		},
+		{
+			"name": "steam",
+			"bucket": "versions"
+		},
+		{
+			"name": "sublime-text",
+			"bucket": "extras"
+		},
+		{
+			"name": "traslucenttb-np",
+			"bucket": "nonportable"
 		},
 		{
 			"name": "upscayl",
 			"bucket": "extras"
 		},
 		{
-			"name": "authy",
-			"bucket": "extras"
-		},
-		{
-			"name": "ncspot",
-			"bucket": "main"
-		},
-		{
-			"name": "spotify",
+			"name": "vscode",
 			"bucket": "extras"
 		},
 		{
@@ -74,40 +102,8 @@
 			"bucket": "extras"
 		},
 		{
-			"name": "eartrumpet",
-			"bucket": "extras"
-		},
-		{
-			"name": "nodejs",
-			"bucket": "main"
-		},
-		{
-			"name": "traslucenttb-np",
-			"bucket": "nonportable"
-		},
-		{
 			"name": "wireguard-np",
 			"bucket": "nonportable"
-		},
-		{
-			"name": "everything",
-			"bucket": "extras"
-		},
-		{
-			"name": "mpv.net",
-			"bucket": "extras"
-		},
-		{
-			"name": "plex-desktop",
-			"bucket": "extras"
-		},
-		{
-			"name": "micro",
-			"bucket": "main"
-		},
-		{
-			"name": "powertoys",
-			"bucket": "extras"
 		}
 	]
 }

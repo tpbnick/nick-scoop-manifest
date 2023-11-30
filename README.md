@@ -11,29 +11,32 @@ The scoop-update.bat file is something I keep on my desktop to quickly update al
 
 Currently contains the following apps:
 
-- 7zip
-- authy
-- discord
-- eartrumpet
-- espanso
-- everything
-- firefox-developer
-- git
-- micro
-- mpv.net
-- mullvadvpn-np
-- ncspot
-- nodejs
-- obsidian
-- powertoys
-- plex-desktop
-- sharex
-- space-mono-nf
-- spotify
-- steam
-- sublime-text
-- traslucenttb-np
-- upscayl
-- vscode
-- wireguard-np
-- winscp
+- [7zip](https://www.7-zip.org/)
+- [authy](https://authy.com)
+- [discord](https://discord.com/)
+- [eartrumpet](https://github.com/File-New-Project/EarTrumpet)
+- [espanso](https://espanso.org/)
+- [everything](https://www.voidtools.com/)
+- [firefox-developer](https://www.mozilla.org/en-US/firefox/developer/)
+- [git](https://gitforwindows.org/)
+- [micro](https://micro-editor.github.io/)
+- [mpv.net](https://github.com/mpvnet-player/mpv.net)
+- [mullvadvpn-np\*](mullvad.net/en)
+- [ncspot](https://github.com/hrkfdn/ncspot)
+- [nodejs](nodejs.org)
+- [obsidian](obsidian.md)
+- [powertoys](https://github.com/microsoft/PowerToys)
+- [plex-desktop](https://www.plex.tv/apps-devices/#modal-devices-plex-for-windows)
+- [sharex](https://getsharex.com/)
+- [space-mono-nf](https://github.com/ryanoasis/nerd-fonts)
+- [spotify](https://spotify.com)
+- [starship](https://starship.rs)
+- [steam](https://store.steampowered.com)
+- [sublime-text](https://www.sublimetext.com/)
+- [traslucenttb-np\*](https://github.com/TranslucentTB/TranslucentTB)
+- [upscayl](https://github.com/upscayl/upscayl)
+- [vscode](https://code.visualstudio.com/)
+- [wireguard-np\*](https://www.wireguard.com/)
+- [winscp](https://winscp.net/)
+
+\*np signifies [non-portible](https://github.com/ScoopInstaller/Nonportable)
