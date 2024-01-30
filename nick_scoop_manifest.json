@@ -38,6 +38,10 @@
 			"bucket": "main"
 		},
 		{
+			"name": "modernflyouts",
+			"bucket": "extras"
+		},
+		{
 			"name": "mpv.net",
 			"bucket": "extras"
 		},
@@ -64,6 +68,10 @@
 		{
 			"name": "sharex",
 			"bucket": "extras"
+		},
+		{
+			"name": "scoop-search",
+			"bucket": "main"
 		},
 		{
 			"name": "spacemono-nf",
