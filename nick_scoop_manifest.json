@@ -46,6 +46,10 @@
 			"bucket": "extras"
 		},
 		{
+			"name":"msedgeredirect",
+			"bucket":"extras"
+		},
+		{
 			"name": "mullvadvpn-np",
 			"bucket": "nonportable"
 		},
@@ -78,10 +82,6 @@
 			"bucket": "nerd-fonts"
 		},
 		{
-			"name": "spotify",
-			"bucket": "extras"
-		},
-		{
 			"name": "starship",
 			"bucket": "main"
 		},
@@ -94,8 +94,8 @@
 			"bucket": "extras"
 		},
 		{
-			"name": "traslucenttb-np",
-			"bucket": "nonportable"
+			"name": "traslucenttb",
+			"bucket": "extras"
 		},
 		{
 			"name": "upscayl",
